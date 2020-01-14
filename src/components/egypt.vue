@@ -89,6 +89,12 @@ export default{
       },
       {
         productTitle: "Мечеть Аль-Азхар",
+        image: require('./fotoEgipt/egp2.jpg'),
+
+        productId: 2
+      },
+      {
+        productTitle: "Мечеть Аль-Азхар",
         image: require('./fotoEgipt/egp3.jpg'),
 
         productId: 3

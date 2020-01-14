@@ -21,15 +21,18 @@ import VueDisplacementSlideshow from "./VueDisplacementSlideshow.vue";
        computed: {
            images() {
                return [
-                   require('./fotoEgipt/egp7.jpg'),
+                   require('../img/img1.jpg'),
+                   require('../img/img2.jpg'),
+                   require('../img/img3.jpg'),
                    require('../img/img4.jpg'),
-                   require('./fotoBars/bars3.jpg'),
-                   require('./fotoGrc/grc9.jpg'),
-                   require('./fotoIbiza/ibz1.jpg'),
-                   require('./fotoMajorca/maj5.jpg'),
+                   require('../img/img6.jpg'),
+                   require('../img/img7.jpg'),
+                   require('../img/img11.jpg'),
+                   require('../img/img12.jpg'),
                    require('../img/img13.jpg'),
+                   require('../img/img14.jpg'),
                    require('../img/img15.jpg'),
-
+                   require('../img/img16.jpg')
                ];
            }
        },

@@ -81,7 +81,14 @@ export default{
       products: [{
         productTitle: "Принцесса Гуаньинь",
         image: require('./fotoChina/china1.jpg'),
+
         productId: 1
+      },
+      {
+        productTitle: "Храм шаулиней",
+        image: require('./fotoChina/china2.jpg'),
+
+        productId: 2
       },
       {
         productTitle: "В Китае все Ок",
@@ -100,7 +107,11 @@ export default{
         image : require('./fotoChina/china6.jpg'),
         productId:8
       },
-
+      {
+        productTitle: "Все сияет и блестит",
+        image: require('./fotoChina/china7.jpg'),
+        productId: 4
+      },
       {
         productTitle: "Урны с прахом монахов",
         image: require('./fotoChina/china8.jpg'),
@@ -111,11 +122,45 @@ export default{
         image: require('./fotoChina/china9.jpg'),
         productId: 6
       },
-
+      {
+        productTitle: "Ленточки с пожеланиями",
+        image: require('./fotoChina/china10.jpg'),
+        productId: 7
+      },
       {
         productTitle: "На пороге храма Шау-линь",
         image: require('./fotoChina/china11.jpg'),
         productId: 8
+      },
+      {
+        productTitle: "Вид на море из окна",
+        image: require('./fotoChina/china12.jpg'),
+        productId: 9
+      },
+      {
+        productTitle: "Китайский макдональдс",
+        image: require('./fotoChina/china13.jpg'),
+        productId: 10
+      },
+      {
+        productTitle: "Где-то в Китае",
+        image: require('./fotoChina/china14.jpg'),
+        productId: 11
+      },
+      {
+        productTitle: "Пляж с кокосовой рощей",
+        image: require('./fotoChina/china15.jpg'),
+        productId: 12
+      },
+      {
+        productTitle: "Просто пляж",
+        image: require('./fotoChina/china16.jpg'),
+        productId: 13
+      },
+      {
+        productTitle: "Вид из шизлонга",
+        image: require('./fotoChina/china17.jpg'),
+        productId: 14
       },
       {
         productTitle: "Вид с птичьего полета",

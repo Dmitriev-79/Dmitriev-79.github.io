@@ -86,14 +86,29 @@ export default{
 
         productId: 1
       },
+      {
+        productTitle: "Стены Иерусалима",
+        image: require('./fotoEzrail/izr1.jpg'),
 
+        productId: 2
+      },
       {
         productTitle: "У Стены Плача",
         image: require('./fotoEzrail/izr4.jpg'),
 
         productId: 3
       },
+      {
+        productTitle:"Улочки Иерусалима",
+        image : require('./fotoEzrail/izr5.jpg'),
 
+        productId:7
+      },
+      {
+        productTitle:"Улицы Иерусалима узкие и под навесом, чтобы солнце не достало",
+        image : require('./fotoEzrail/izr6.jpg'),
+        productId:8
+      },
       {
         productTitle:"Рядом со школой Мартина Лютера. Отсюда пошло лютеранство.",
         image : require('./fotoEzrail/izr7.jpg'),
@@ -109,13 +124,21 @@ export default{
         image : require('./fotoEzrail/izr9.jpg'),
         productId:8
       },
-
+      {
+        productTitle:"Поднимаюсь в Храм Гроба Господня",
+        image : require('./fotoEzrail/izr10.jpg'),
+        productId:8
+      },
       {
         productTitle:"Вид внутри Храма",
         image : require('./fotoEzrail/izr11.jpg'),
         productId:8
       },
-
+      {
+        productTitle:"Голгофа",
+        image : require('./fotoEzrail/izr12.jpg'),
+        productId:8
+      },
       {
         productTitle:"Место, где стоял Крест с распятым Иисусом",
         image : require('./fotoEzrail/izr13.jpg'),
@@ -141,19 +164,36 @@ export default{
         image : require('./fotoEzrail/izr17.jpg'),
         productId:8
       },
-
+      {
+        productTitle:"Вид камня сбоку.",
+        image : require('./fotoEzrail/izr18.jpg'),
+        productId:8
+      },
       {
         productTitle:"На месте этого Храма  была пещера, где Иисус воскрес. Каждую Пасху с этого места  ведется прямая трансляция о зажжении священного огня.",
         image : require('./fotoEzrail/izr19.jpg'),
         productId:8
       },
-
+      {
+        productTitle:"Каждый год с этого небосвода падает луч света, который зажигает священный огонь на алтаре во свидетельство Воскресения Иисуса Христа.",
+        image : require('./fotoEzrail/izr20.jpg'),
+        productId:8
+      },
+      {
+        productTitle:"Зал православного Храма. В храме Гроба Господня  несколько конфессий. Данный зал принадлжеит православной церкви.",
+        image : require('./fotoEzrail/izr21.jpg'),
+        productId:8
+      },
       {
         productTitle:"Эту колонну в одну из Пасх поразила молния.",
         image : require('./fotoEzrail/izr22.jpg'),
         productId:8
       },
-
+      {
+        productTitle:"Вид на оливковую рощу",
+        image : require('./fotoEzrail/izr23.jpg'),
+        productId:8
+      },
       {
         productTitle:"Храм Рождества",
         image : require('./fotoEzrail/izr24.jpg'),
@@ -164,7 +204,11 @@ export default{
         image : require('./fotoEzrail/izr25.jpg'),
         productId:8
       },
-      
+      {
+        productTitle:"Пол в Храме был сделан византийцами в виде мозаики. После них Мальтийские рыцари положили камень, что спасло мозаику от полного износа.",
+        image : require('./fotoEzrail/izr26.jpg'),
+        productId:8
+      },
     ]
   }
 },

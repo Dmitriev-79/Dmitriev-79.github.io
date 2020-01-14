@@ -79,8 +79,18 @@ export default{
       show: false,
       showPreloded: false,
       showBtn: true,
-      products: [
+      products: [{
+        productTitle: "На борту парома на пути в Афины",
+        image: require('./fotoGrc/grc1.jpg'),
 
+        productId: 1
+      },
+      {
+        productTitle: "Амфитеатр 3 в до н.э, идеальная акустика",
+        image: require('./fotoGrc/grc2.jpg'),
+
+        productId: 2
+      },
       {
         productTitle: "В афинском Акрополе Дом или Храм Ники",
         image: require('./fotoGrc/grc3.jpg'),
@@ -116,6 +126,11 @@ export default{
       {
         productTitle: "Храм Гефеста",
         image: require('./fotoGrc/grc9.jpg'),
+        productId: 6
+      },
+      {
+        productTitle: "Греческая фреска",
+        image: require('./fotoGrc/grc10.jpg'),
         productId: 6
       },
       {
